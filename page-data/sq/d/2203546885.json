@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$language\" of required type \"String!\" was not provided.","locations":[{"line":1,"column":94}]},{"message":"Variable \"$strapiLangKey\" of required type \"String!\" was not provided.","locations":[{"line":1,"column":114}]}]}
