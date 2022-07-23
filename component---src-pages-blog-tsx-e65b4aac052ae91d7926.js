@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadvisoryapps_v3=self.webpackChunkadvisoryapps_v3||[]).push([[410],{7883:function(a,e,t){t.r(e);var r=t(7294),s=t(1597),l=t(1403);e.default=function(){var a=(0,s.K2)("1052133925").allStrapiBlog;return r.createElement(l.Z,{seo:{metaTitle:"our blog"},data:a.nodes})}}}]);
+//# sourceMappingURL=component---src-pages-blog-tsx-e65b4aac052ae91d7926.js.map
